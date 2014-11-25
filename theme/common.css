@@ -218,8 +218,8 @@ ol ol ul, ol ul ul, ul ol ul, ul ul ul {
 #site-description {
 	float: left;
 	width: 65%;
-	background-image: url(./logo_podemos_region_de_murcia.png);  /** Podemos **/
-	background-repeat: no-repeat;                                /** Podemos **/
+	background-image: url(./images/logo_podemos.png);  /** Podemos **/
+	background-repeat: no-repeat;                       /** Podemos **/
 }
 
 #site-description h1 {
